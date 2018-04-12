@@ -39,7 +39,7 @@ Iselia is a service for tchalo written in go.
 - Clone this repo in `$GOPATH/src/github.com/tchalo`
 
   If you have not set your GOPATH, set it using [this](https://golang.org/doc/code.html#GOPATH) guide.
-  If you don't have directory `src`, `github.com`, or `bukalapak` in your GOPATH, please make them.
+  If you don't have directory `src`, `github.com`, or `tchalo` in your GOPATH, please make them.
 
   ```sh
   git clone https://github.com/tchalo/iselia.git
